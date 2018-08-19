@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "QuoteService": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=QuoteDatabase;",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:57539/"
+    }
+  }
+}
