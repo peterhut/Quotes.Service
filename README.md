@@ -5,3 +5,5 @@ Required configuration:
 | Name | Description | Example |
 |---|---|---|
 | ConnectionString | The connectionstring to the SQL database. | 
+
+Based on https://github.com/demo42/quotes
